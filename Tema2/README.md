@@ -1,0 +1,5 @@
+- Pentru rezolvarea acestei teme am folosit formulele si explicatiile din pdf-ul cerintei si am urmat pasii din fiecare schelet
+- explicatiile sunt date chiar de pasii din schelet, deoarece se spune exact ce si cum trebuie facut, nu stiu ce as putea sa mai adaug
+- au fost niste cerinte interesante
+- lanczos m-a depasit cumplit
+- la unele teste dura foarte mult verificarea
